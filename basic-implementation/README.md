@@ -1,6 +1,6 @@
-# 🌾 Multilingual Farmer Assistance Chatbot
+# 🌾 Multilingual Assistance Chatbot
 
-A secure multilingual chatbot system designed to assist farmers in their native language. The project consists of a **FastAPI backend** for chat generation and translation, and a **React frontend** chat widget for user interaction. The backend leverages the **Sarvam AI platform** and is secured using a custom **API key**.
+A secure multilingual chatbot system designed to assist people in their native language. The project consists of a **FastAPI backend** for chat generation and translation, and a **React frontend** chat widget for user interaction. The backend leverages the **Sarvam AI platform** and is secured using a custom **API key**.
 
 ---
 
