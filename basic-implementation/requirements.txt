@@ -1,5 +1,9 @@
 streamlit
 sarvamai
 python-dotenv
+fastapi
+uvicorn[standard]
+pydantic
+requests
 
 # pip install -r requirements.txt

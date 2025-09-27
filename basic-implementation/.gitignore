@@ -1,1 +1,6 @@
 .env
+__pycache__
+index.html
+main.py 
+test_client.py 
+tryout.py 
